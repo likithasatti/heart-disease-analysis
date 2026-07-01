@@ -251,11 +251,12 @@ Possible future enhancements include:
 
 # 👥 Team Members
 
-- Yaswanth Mutyala (Team Lead)
 - Likitha Satti
+- Kovvuri Jyothsna Harini
+- Yaswanth Mutyala  (**Team Lead**)
 - Manukonda Nikhitha Florence
 - Varshini Siddireddy
-- Kovvuri Jyothsna Harini
+
 
 ---
 
