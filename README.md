@@ -35,6 +35,8 @@ The objective of this project is to transform raw heart disease data into meanin
 #**demo link**
 https://youtu.be/QBQRcAfQi64
 
+demo link with explanation : https://youtu.be/hkTp5AQl6L8
+
 # 🛠 Technologies Used
 
 | Technology | Purpose |
