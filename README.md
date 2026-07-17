@@ -36,6 +36,8 @@ The objective of this project is to transform raw heart disease data into meanin
 https://youtu.be/QBQRcAfQi64
 
 demo link with explanation : https://youtu.be/hkTp5AQl6L8
+# Tableau Public 
+https://public.tableau.com/views/heartdiseasediagnosticdashboard/STSlopeDistribution?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # 🛠 Technologies Used
 
